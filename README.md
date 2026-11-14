@@ -31,3 +31,10 @@ We extend our most sincere gratitude to the original authors of OpenClaw and the
 ---
 
 **Note**: As an independent open-source branch, ThetaClaw's core vision focuses on the underlying security protection of the AI assistant's execution environment. For basic dialogue channel integration (e.g., WhatsApp, Discord, TG) and standard feature instructions, please refer to the original [OpenClaw Official Documentation](https://github.com/openclaw/openclaw).
+
+## Quick Links
+
+* [中文说明](README_zh.md)
+* [Contribution guidelines](CONTRIBUTING.md)
+* [Security policy](SECURITY.md)
+* [MIT License](LICENSE)
