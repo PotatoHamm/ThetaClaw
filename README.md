@@ -1,6 +1,6 @@
 # ThetaClaw 🦞🛡️
 
-[Quick overview](FAST_README.md) · [简体中文](README_zh.md)
+[Quick overview](FAST_README.md) · [中文版速览](FAST_README_zh.md) · [简体中文](README_zh.md)
 
 **ThetaClaw** is a security-hardened runtime framework built on top of [OpenClaw](https://github.com/openclaw/openclaw). This project aims to preserve the powerful capabilities of the original personal AI assistant while refactoring and introducing a brand-new security architecture, providing a more robust and trusted underlying execution environment for AI agents.
 
