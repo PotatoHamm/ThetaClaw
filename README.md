@@ -6,7 +6,7 @@
 
 ---
 
-## 🙏 Acknowledgements & Open Source Statement
+## Acknowledgements & Open Source Statement
 
 This project is a secondary development and security-hardened fork of the excellent open-source project **OpenClaw**. 
 We extend our most sincere gratitude to the original authors of OpenClaw and the entire contributor community. The inception of ThetaClaw would not have been possible without their outstanding foundational work in the AI assistant space.
